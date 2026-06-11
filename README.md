@@ -1,4 +1,4 @@
-# eyes_detecter
+# eyes_detector
 
 A new Flutter project.
 

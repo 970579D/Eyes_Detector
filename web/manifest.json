@@ -1,6 +1,6 @@
 {
-    "name": "eyes_detecter",
-    "short_name": "eyes_detecter",
+    "name": "eyes_detector",
+    "short_name": "eyes_detector",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

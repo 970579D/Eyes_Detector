@@ -8,7 +8,7 @@
         android:maxSdkVersion="28"/>
 
     <application
-        android:label="eyes_detecter"
+        android:label="eyes_detector"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
